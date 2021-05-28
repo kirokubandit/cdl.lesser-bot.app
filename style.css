@@ -1,0 +1,53 @@
+html
+{
+	background-color: #36383f;
+	font-family: monospace;
+}
+
+body
+{
+	max-width: 500px;
+	margin: auto;
+}
+
+a
+{
+	text-decoration: none;
+	background-color: #494c6e;
+	color: #ffffff;
+	border-radius: 5px;
+}
+
+a:hover
+{
+	background-color: #757cdb;
+	border-radius: 5px;
+}
+
+.lesser-bot-badge
+{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.lesser-bot-badge img
+{
+
+	width: 200px;
+	border-radius: 100px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #202225;
+}
+
+.lesser-bot-badge h1
+{
+	font-size: 48px;
+	color: #ffffff;
+}
+
+.lesser-bot-badge p
+{
+	font-size: 28px;
+	color: #ffffff;
+}
